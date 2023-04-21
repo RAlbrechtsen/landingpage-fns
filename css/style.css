@@ -20,16 +20,13 @@
 
   }
 
-  button {
-    background-color: green;
-  }
-
   .button {
-    background-color: green;
+    background-color: #333766;
     width: 8rem;
     padding: 15px;
     margin: 10px;
-    
+    text-align: center;   
+    cursor: pointer;
     
   }
 
