@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+
+  body {
+    background-color: #332c50;
+  }
+
+  .headline {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 72px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    margin-top: 250px;
+    color: #fff;
+  }
+
+  .mainText {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding: 45px;
+  }
+
+/*   
+
+  #1C1C1E
+  #121212
+  #2C3E50
+  #292929
+  #1D1D1D
+  #111111
+  #3B3B3B
+ */
