@@ -71,6 +71,17 @@
     background-position: 400px 0px;
   }
 
+
+  @media only screen and (max-width: 600px) {
+    .headline {
+      font-size: 40px;
+      text-align: center;
+    }
+
+    .mainText {
+      text-align: center;
+    }
+  }
 /*   
 
   #1C1C1E
